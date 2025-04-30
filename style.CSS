@@ -625,4 +625,13 @@ pre a {
     .ContactSpans {
         padding: 1.7%;
     }
+
+ #DeveloperName{
+        margin: 13% 0% 5.6% 0%;
+    }
+
+    #Contacts{
+        margin: 18% 0% 7% 0%;
+    }
+
 }
