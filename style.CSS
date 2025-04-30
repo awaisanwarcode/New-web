@@ -603,6 +603,8 @@ pre a {
         margin-right: 0%;
         height: auto;
         padding: 0% 1%;
+        width:auto;
+        font-size: 1.2rem;
     }
 
     #FrontendH3,
